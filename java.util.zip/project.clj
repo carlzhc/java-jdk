@@ -1,4 +1,4 @@
-(defproject clojure-interop/java.util.zip "1.0.5"
+(defproject clojure-interop/java.util.zip "1.0.6"
   :description "Clojure to Java Interop Bindings for java.util.zip"
   :url "https://github.com/clojure-interop/java-jdk"
   :license {:name "Eclipse Public License"
